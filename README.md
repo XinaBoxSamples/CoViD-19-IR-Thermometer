@@ -1,6 +1,8 @@
 # CoViD-19 IR Thermometer
 Fast temperature screening with fast decision making
 
+Compile the code yourself or just drag 'n drop the readymade software to the CC03 Core: https://github.com/XinaBoxSamples/CoViD-19-IR-Thermometer/releases/latest
+
 # Libraries used:
 - https://github.com/xinabox/arduino-core
 - https://github.com/xinabox/arduino-od01
